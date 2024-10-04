@@ -42,13 +42,21 @@ Note: The way we handle data generation is depends on the value we get. At this 
   structured format using ETL before it can be analysed.
   ETL Means Extract, Transform and Load.
   Every single thing done to data to make it analysable is ETL. It could be adding of attribute, delect or any change done to it.
-
- ### ETL TOOLS
+### ETL TOOLS
   - Power Query
   - Microsfot SQL Server Intergration Services
   - Oracle Data Intergrator.ETC
 
-### DATA ANALYSIS
+### DATA ANALYSIS 
+  There are certain things to do to analyse data. There are;
+  - Ingestion: Data Ingestion: This is the system of connecting to data sources to channel it into a target tool you want to use.
+  - Transformation: This is the process of making changes to the data before analysis. E.g Add, Delete Attributes, delete cell, etc.
+  - Modeling: This is the system of bring data to the point where it can communicate or interact to build a sing report.
+  - Visualisation: This is the stage of bring data to the point of view and understanding people where they can make comments.
+  - Analysis: This is the point of performing some arithimatics using mode, media, average etc. to make decisions.
+  - presentation: This is a way of communicating data using charts or any other meaningful means.
+
+
 
     
    
