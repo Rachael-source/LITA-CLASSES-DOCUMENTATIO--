@@ -25,7 +25,7 @@ Note: The way we handle data generation is depends on the value we get. At this 
 
 ### DATA STORAGE
   This is the processof capturing, storing and retaining data in accessigle and secure manner.
-###  METHODS DATA STORAGE
+###  METHODS OF DATA STORAGE
   There are two typical ways of data storage. They are;
 - On premises ( local disk) This is when data is secure within the four walls of the organisation and only accessable in the premises of the organisation. Except permision is granted for 
   it to be sent out.
@@ -49,12 +49,71 @@ Note: The way we handle data generation is depends on the value we get. At this 
 
 ### DATA ANALYSIS 
   There are certain things to do to analyse data. There are;
-  - Ingestion: Data Ingestion: This is the system of connecting to data sources to channel it into a target tool you want to use.
+  - Ingestion: This is the system of connecting to data sources to channel it into a target tool you want to use.
   - Transformation: This is the process of making changes to the data before analysis. E.g Add, Delete Attributes, delete cell, etc.
   - Modeling: This is the system of bring data to the point where it can communicate or interact to build a sing report.
   - Visualisation: This is the stage of bring data to the point of view and understanding people where they can make comments.
   - Analysis: This is the point of performing some arithimatics using mode, media, average etc. to make decisions.
   - presentation: This is a way of communicating data using charts or any other meaningful means.
+
+## UNLOCKING THE OPPORTUNITY IN DATA ANALYSIS
+  Data analysis literally means; inspecting, cleansing, transforming, and modelling of data to discover useful information and make meaningful decision.
+
+### STAGES OF ANTI INSIGHT OF ORGANISATION TO MAKE DECISIONS
+  - Get data
+  - Explore data
+  - Prepare data
+  - Analyse data
+  - Present data
+
+### ROLES OF DATA ANALYST
+  - To help organisation to make decision
+  - Understand customer behaviour
+  - Improve operation
+  - Predict future trends/challanges
+  - Identifies new opportunities
+  - Help to give better allocation of resources
+  - Identifies factors contributing to customer churns and develop stratages to handle it.
+
+### SKILLS REQUIRED FOR DATA ANALYSIS
+  1. Python for data manipulation and analysis
+  2. R. Language for statistical analysis
+  3. SQL for query, update and manipulation of structured data
+  4. Tableau for creating complex visualization
+  5. Power BI for creating interative reports and dashboard
+
+### CARRIER IN DATA ANALYSIS
+  - Data Scientist: AI Engineers
+  - Data Engineers: they design and manage systems for collecting, storing and analyses data
+  - Business Analyst
+  - Data-Based Administrator
+
+## INTRODUCTION TO EXCEL FUNCTIONS ( BASIC EXCEL FUNCTIONS)
+  In exce, formulas and functions are used to perform calculations and manipulate data, but they differ in their purpose and syntax
+### FORMULAS
+  - A formula is an equation that calculates a value.
+  - It starts with an equals sign (=)
+  - Can contain numbers, operators, and cell references
+  - Performs calculations, comparisons or logical operations
+  -  It can be simple( e.g, = 2+2) or complex(e.g, =sum(A1:A10))
+### FUNCTIONS
+  - A function is a pre-built  formula that performs a specific task
+  - It starts with an equals sign (=) followed by the function name
+  - It takes arguments. Arguments in brankets are compulsory while in square branket are not compulsory
+  - It can simplify complex calculations
+  - Performs a specific calculation or operation( e.g, SUM, AVERAGE, IF)
+
+						
+							
+
+
+							
+
+  
+
+
+    
+
 
 
 
