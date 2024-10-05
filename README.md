@@ -1,4 +1,4 @@
-B# LITA-CLASSES-DOCUMENTATION-Documentation of  my first Data Analysis project/ LITA/2024
+![image](https://github.com/user-attachments/assets/04524039-6ee2-44b2-93c8-8e56c025fc2b)B# LITA-CLASSES-DOCUMENTATION-Documentation of  my first Data Analysis project/ LITA/2024
 
 ## BASICS OF DATA ANALYSIS: DATA LITERACY
 Data literacy is the state of putting data together in order to make meaning out of it. There are basic things to cosider in data literacy, they are; 
@@ -103,8 +103,9 @@ Note: The way we handle data generation is depends on the value we get. At this 
   - It can simplify complex calculations
   - Performs a specific calculation or operation( e.g, SUM, AVERAGE, IF)
 
-						
-							
+### BASIC EXCEL FUNCTION ID AND CO. LIMITED SCHEDULE OF PIONIEER StAFF
+
+			
 
 
 							
