@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/04524039-6ee2-44b2-93c8-8e56c025fc2b)B# LITA-CLASSES-DOCUMENTATION-Documentation of  my first Data Analysis project/ LITA/2024
-
 ## BASICS OF DATA ANALYSIS: DATA LITERACY
 Data literacy is the state of putting data together in order to make meaning out of it. There are basic things to cosider in data literacy, they are; 
 1. Data Generation
@@ -103,11 +101,43 @@ Note: The way we handle data generation is depends on the value we get. At this 
   - It can simplify complex calculations
   - Performs a specific calculation or operation( e.g, SUM, AVERAGE, IF)
 
-### BASIC EXCEL FUNCTION ID AND CO. LIMITED SCHEDULE OF PIONIEER StAFF
+### Basic Excel Function							
+ID and Co. Limited							
+Schedule of Pioneer Staff							
+### TABELE 1							
+|Names	|Company|Salary|
+|-------|-------|------|
+|Goodluck Jonathan|Bayelsa|4,974,390|					
+|Bukar Ibrahim|Yobe|4,972,165|					
+|Jolly Nyame|Taraba|4,948,277|					
+|Adamu Muazu|Bauchi|4,740,966|					
+|Lucky Igbinedion|Edo|4,286,346|					
+|Peter Obi|Anambara|4,068,987|				
+|Gbenga Daniel|Ogun|3,896,653|				
+|Ahmed Makarfi|kaduna|3,426,608|			
+|Christopher Alao-Akala|Oyo|3,028,264|			
+|Achike Udenwa|Imo|2,318,996|				
+|Bukola Saraki|Kwara|2,312,631|					
+|Ali Modu Sherrif|Borno|2,121,528|			
+|Sam Egwu|Ebonyi|1,643,270|			
+|Olusegun Agagu|Ondo|1,562,243|					
+|George Akume|Benue|1,407,751|					
+|Chimaroke Nnamani|Enugu|1,375,956|					
+|Abdullahi Adamu|Nassarawa|1,364,301|					
+|Attahiru Bafarawa|Sokoto|1,358,916|					
+|Bola Tinubu|Lagos|1,226,444|					
+|Dolnad Duke|Cross River|1,130,642|					
 
-			
-
-
+### ANALYSIS ON TABLE 1
+|VARIABLES|TOTAL AMOUNT|
+|----------------------|
+|Grand Total|56,165,334.00|							
+|Average Salary|2,808,266.70|							
+|Highest Salary|4,974,390|							
+|Lowest Salary|1,130,642|
+|Total No of Staff|20|
+|Forth Highest Salary|4740966|
+|Third Lowest Salary|1358916|
 							
 
   
