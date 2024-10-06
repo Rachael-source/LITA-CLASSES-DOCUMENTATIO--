@@ -138,10 +138,17 @@ Schedule of Pioneer Staff
 |Total No of Staff|20|
 |Forth Highest Salary|4740966|
 |Third Lowest Salary|1358916|
-							
 
-  
+       
+### TABLE 2
+![image](https://github.com/user-attachments/assets/cacbf722-5bda-40f9-90c9-352bf66ee9a3)
 
+
+### TABLE 3						
+![image](https://github.com/user-attachments/assets/102fe8ae-347e-4af5-aad9-a9689802abf7)
+
+### ANALYSIS ON TABLE 3
+![image](https://github.com/user-attachments/assets/09cc2f78-ea23-4d76-8073-c2bb4e68f9f1)
 
     
 
