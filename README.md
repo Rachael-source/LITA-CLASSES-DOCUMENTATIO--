@@ -87,7 +87,7 @@ Note: The way we handle data generation is depends on the value we get. At this 
   - Data-Based Administrator
 
 ## INTRODUCTION TO EXCEL FUNCTIONS ( BASIC EXCEL FUNCTIONS)
-  In exce, formulas and functions are used to perform calculations and manipulate data, but they differ in their purpose and syntax
+  In excel, formulas and functions are used to perform calculations and manipulate data, but they differ in their purpose and syntax
 ### FORMULAS
   - A formula is an equation that calculates a value.
   - It starts with an equals sign (=)
@@ -130,7 +130,7 @@ Schedule of Pioneer Staff
 
 ### ANALYSIS ON TABLE 1
 |VARIABLES|TOTAL AMOUNT|
-|----------------------|
+|---------|-----------|
 |Grand Total|56,165,334.00|							
 |Average Salary|2,808,266.70|							
 |Highest Salary|4,974,390|							
