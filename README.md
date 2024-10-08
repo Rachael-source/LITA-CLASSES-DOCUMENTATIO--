@@ -1,4 +1,6 @@
-## BASICS OF DATA ANALYSIS: DATA LITERACY
+[BASIS OF DATA ANALYSIS] (Basis-of-data-ana
+
+#BASICS OF DATA ANALYSIS: DATA LITERACY
 Data literacy is the state of putting data together in order to make meaning out of it. There are basic things to cosider in data literacy, they are; 
 1. Data Generation
 2. Data Storage
@@ -152,7 +154,6 @@ Schedule of Pioneer Staff
 
 ### PIVOT TABLES
 
-		  		
 		
 |Row Labels|Sum of Revenue|Sum of Units Sold|
 |North Central|6489332640|54522|
@@ -170,7 +171,6 @@ Schedule of Pioneer Staff
 |Oct|365778720|2842|
 |Nov|355480320|3179|
 |Dec|354767280|3074|
-
 |2015|2170467840|18635|
 |Jan|357136320|3352|
 |Feb|361103880|2941|
@@ -178,7 +178,6 @@ Schedule of Pioneer Staff
 |Apr|349533840|3162|
 |May|358056240|2919|
 |Jun|347240760|2944|
-
 |North East|18641963520|208983|
 |2014|12489746040|138582|
 |Jan|995790600|10386|
@@ -193,7 +192,6 @@ Schedule of Pioneer Staff
 |Oct|1072498080|12042|
 |Nov|1019829720|11939|
 |Dec|1002283080|11235|
-
 |2015|6152217480|70401|
 |Jan|1015803240|11741|
 |Feb|1025395920|11618|
@@ -201,7 +199,6 @@ Schedule of Pioneer Staff
 |Apr|1006793400|11327|
 |May|1060283040|11930|
 |Jun|996715080|11644|
-
 |North West|9386346720|105014|
 |2014|6161561760|68974|
 |Jan|463694280|5327|
@@ -216,7 +213,6 @@ Schedule of Pioneer Staff
 |Oct|515754960|6228|
 |Nov|536703960|5844|
 |Dec|513992400|6183|
-
 |2015|3224784960|36040|
 |Jan|551382360|5733|
 |Feb|529603440|6102|
@@ -224,7 +220,6 @@ Schedule of Pioneer Staff
 |Apr|537026400|6545|
 |May|530490240|6112|
 |Jun|523305720|5612|
-
 |South East|10457403240|122240|
 |2014|6879985320|80664|
 |Jan|562666680|6225|
@@ -246,7 +241,6 @@ Schedule of Pioneer Staff
 |Apr|575320560|7220|
 |May|594140880|7441|
 |Jun|600722280|6813|
-
 |South South|12179415120|126189|
 |2014|8060273640|82404|
 |Jan|656399640|6109|
@@ -285,20 +279,68 @@ Schedule of Pioneer Staff
 |2015|5323352400|59228|
 |Jan|884070360|9986|
 |Feb|819931560|9815|
-|Mar|961579080|10091|
+|Mar|961579080|1009|
 |Apr|892637280|9768|
 |May|893751000|9928|
 |Jun|871383120|9640|
 |Grand Total|73031990280|786678|
 
-																																										
-														
-																																										
-																																										
+	
+### Row Labels	Sum of Units Sold 
+![image](https://github.com/user-attachments/assets/e6016b4d-580d-4782-b384-914fa30a4c69)
 
 
 
+![image](https://github.com/user-attachments/assets/edb11051-78e8-41a5-9d5e-c1a5f80adbeb)
+
+		
+		
+![image](https://github.com/user-attachments/assets/4d9ba59f-8878-493b-b4ba-91cd0e95994d)
+
+
+![image](https://github.com/user-attachments/assets/6b5a85bc-f60f-4477-a388-89ecc9238c14)
+
+### Top 5 Market by Revenue	
+	
+![image](https://github.com/user-attachments/assets/fa664617-10ef-44a9-98dd-7d2e16e3900e)
+																					
+
+Bottom 5 Stores by Unit sold	
+
+![image](https://github.com/user-attachments/assets/229a4c06-6cdc-4668-95a0-eb4aad003888)
+
+### Row Labels	Average of Revenue 
+	
+![image](https://github.com/user-attachments/assets/984a3724-f80c-4eca-9864-a4043add67aa)
+
+Line of Business  by Average Sold	Line of Business bybaverage unit sold	
+
+![image](https://github.com/user-attachments/assets/30167db6-4864-4ecf-b33f-011f6946c47d)
 
     
-   
+   ### Revenue by line of business	
 
+![image](https://github.com/user-attachments/assets/6a02ac6f-624d-4185-af4e-568f3861f3e0)
+
+
+![image](https://github.com/user-attachments/assets/f880cd6e-b43c-480e-8494-f9e66afcfdb2)
+
+
+### create preport revenue by month			
+			
+
+![image](https://github.com/user-attachments/assets/cfee89b7-d4b7-48c1-86d2-c566962928f8)
+
+
+![image](https://github.com/user-attachments/assets/77ad66cc-090f-4526-841d-6b3317c39205)
+
+ 
+
+![image](https://github.com/user-attachments/assets/0396a590-c7ee-46e1-8fbb-53440a29213f)
+
+
+
+![image](https://github.com/user-attachments/assets/d3041dc5-4438-43ae-83c2-ae8b88b038bc)
+
+
+![image](https://github.com/user-attachments/assets/6e35ae34-66dc-4878-9ede-d9ed714c237d)
