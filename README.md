@@ -332,15 +332,15 @@ Line of Business  by Average Sold	Line of Business bybaverage unit sold
 ![image](https://github.com/user-attachments/assets/cfee89b7-d4b7-48c1-86d2-c566962928f8)
 
 
-![image](https://github.com/user-attachments/assets/77ad66cc-090f-4526-841d-6b3317c39205)
-
- 
 
 ![image](https://github.com/user-attachments/assets/0396a590-c7ee-46e1-8fbb-53440a29213f)
+
+
+ ![image](https://github.com/user-attachments/assets/6e35ae34-66dc-4878-9ede-d9ed714c237d)
 
 
 
 ![image](https://github.com/user-attachments/assets/d3041dc5-4438-43ae-83c2-ae8b88b038bc)
 
+![image](https://github.com/user-attachments/assets/77ad66cc-090f-4526-841d-6b3317c39205)
 
-![image](https://github.com/user-attachments/assets/6e35ae34-66dc-4878-9ede-d9ed714c237d)
