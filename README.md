@@ -162,52 +162,43 @@ The project will require:
 |May|893751000|9928|
 |Jun|871383120|9640|
 |Grand Total|73031990280|786678|
-
-	
-### Row Labels	Sum of Units Sold 
-![image](https://github.com/user-attachments/assets/e6016b4d-580d-4782-b384-914fa30a4c69)
-
-
-
-![image](https://github.com/user-attachments/assets/edb11051-78e8-41a5-9d5e-c1a5f80adbeb)
-
-		
-		
-![image](https://github.com/user-attachments/assets/4d9ba59f-8878-493b-b4ba-91cd0e95994d)
-
-
-![image](https://github.com/user-attachments/assets/6b5a85bc-f60f-4477-a388-89ecc9238c14)
-
+ 
 	
 ![image](https://github.com/user-attachments/assets/fa664617-10ef-44a9-98dd-7d2e16e3900e)
-																					
 
-![image](https://github.com/user-attachments/assets/229a4c06-6cdc-4668-95a0-eb4aad003888)
-
-
-![image](https://github.com/user-attachments/assets/984a3724-f80c-4eca-9864-a4043add67aa)
-
-Line of Business  by Average Sold	Line of Business bybaverage unit sold	
-
-![image](https://github.com/user-attachments/assets/30167db6-4864-4ecf-b33f-011f6946c47d)
-
-
-
-![image](https://github.com/user-attachments/assets/6a02ac6f-624d-4185-af4e-568f3861f3e0)
-
-
-![image](https://github.com/user-attachments/assets/f880cd6e-b43c-480e-8494-f9e66afcfdb2)
-
-
-
-![image](https://github.com/user-attachments/assets/cfee89b7-d4b7-48c1-86d2-c566962928f8)
-
-
-
-![image](https://github.com/user-attachments/assets/0396a590-c7ee-46e1-8fbb-53440a29213f)
-
+![image](https://github.com/user-attachments/assets/e6016b4d-580d-4782-b384-914fa30a4c69)
 
  ![image](https://github.com/user-attachments/assets/6e35ae34-66dc-4878-9ede-d9ed714c237d)
 
+![image](https://github.com/user-attachments/assets/edb11051-78e8-41a5-9d5e-c1a5f80adbeb)
+
+![image](https://github.com/user-attachments/assets/4d9ba59f-8878-493b-b4ba-91cd0e95994d)
+
+![image](https://github.com/user-attachments/assets/6b5a85bc-f60f-4477-a388-89ecc9238c14)																	
+![image](https://github.com/user-attachments/assets/229a4c06-6cdc-4668-95a0-eb4aad003888)
+
+![image](https://github.com/user-attachments/assets/984a3724-f80c-4eca-9864-a4043add67aa)
+
+![image](https://github.com/user-attachments/assets/30167db6-4864-4ecf-b33f-011f6946c47d)
+
+![image](https://github.com/user-attachments/assets/6a02ac6f-624d-4185-af4e-568f3861f3e0)
+
+![image](https://github.com/user-attachments/assets/f880cd6e-b43c-480e-8494-f9e66afcfdb2)
+
+![image](https://github.com/user-attachments/assets/cfee89b7-d4b7-48c1-86d2-c566962928f8)
+
+![image](https://github.com/user-attachments/assets/0396a590-c7ee-46e1-8fbb-53440a29213f)
+
+![image](https://github.com/user-attachments/assets/51db4d08-0966-4faa-a98d-a9b5390abee5)
+
+### VISUALISATION
+
+![image](https://github.com/user-attachments/assets/df6e89d4-68a6-4820-8172-7d6e65abc478)
+
+![image](https://github.com/user-attachments/assets/effb373b-7dcb-44b8-b51b-db5904749c3b)
+
+![image](https://github.com/user-attachments/assets/38ddda05-fc92-43c2-9236-54852db7ca2a)
+
+![image](https://github.com/user-attachments/assets/f67df4a4-57dc-47f0-b6c0-a80d7fbe44e5)
 
 
