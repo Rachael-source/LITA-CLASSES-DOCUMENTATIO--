@@ -18,7 +18,7 @@ The trade sales by the six regions of the federation of Nigeria aim to review th
 - Accounting software
 - Sales databases
 
-  ### DATA TOOLS USED (Excel)
+ ### DATA TOOLS USED (Excel)
   - Pivot tables
   - Charts
   - VLOOKUP
@@ -31,8 +31,20 @@ The project will require:
 - process mapping
 - Requirements gathering
 
-  ### DATA ANALYSIS  
-		
+ ### DATA CLEANING AND PREPARATION
+  This involves the following steps
+  - Handle Missing values.
+  - Data Cleaning (Remove duplicates )
+  - Transformation and Normalize Data
+  - Perform Data Validation
+### DATA ANALYSIS
+The analysis was done using;
+- Applied statistical method (SUM, SUMIF, AVERAGE, MINIMUM, MAXIMUM, COUNT)
+- VlOOKUP
+- Table Array
+- Range LOOKUP
+
+### TABLES		
 |Row Labels|Sum of Revenue|Sum of Units Sold|
 |North Central|6489332640|54522|
 |-------------|----------|-----|
