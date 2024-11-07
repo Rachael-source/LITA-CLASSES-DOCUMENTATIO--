@@ -23,6 +23,8 @@ The trade sales by the six regions of the federation of Nigeria aim to review th
   - Charts
   - VLOOKUP
   - Data Validation
+  - SQL
+  - POWER BI 
   
 ### METHODOLOGY
 The project will require:
@@ -43,6 +45,8 @@ The analysis was done using;
 - VlOOKUP
 - Table Array
 - Range LOOKUP
+- SQL Clauses
+- Power BI 
 
 ### TABLES		
 |Row Labels|Sum of Revenue|Sum of Units Sold|
@@ -208,6 +212,11 @@ The analysis was done using;
 ![image](https://github.com/user-attachments/assets/effb373b-7dcb-44b8-b51b-db5904749c3b)
 
 ![image](https://github.com/user-attachments/assets/38ddda05-fc92-43c2-9236-54852db7ca2a)
+
+### POWER BI CLASS WORK
+![LITA WORKPBI 11_7_2024 11_03_04 PM](https://github.com/user-attachments/assets/c91cf61f-e843-4a70-a657-1c2db8a97851)
+![LITA WORKPBI 11_7_2024 11_25_06 PM](https://github.com/user-attachments/assets/c9b5b6f0-1092-4625-8ba4-c89c0496f934)
+![LITA WORKPBI 11_7_2024 11_09_32 PM](https://github.com/user-attachments/assets/a5b8c3d4-db9d-4649-aa15-2e0eac1ad854)
 
 ### RECOMMENDATION
 From the analysis, the board of internal revenue should run a check on the reasons for the low returns of the regions with low revenue and should improve on the quality supply of the products. Meanwhile certain branch stores that have extreme low unit sold in the period of one and half year should be closed down.
